@@ -1,0 +1,32 @@
+C:\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\MovementDetection.exe.config
+C:\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\MovementDetection.exe
+C:\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\MovementDetection.pdb
+C:\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\Microsoft.Kinect.dll
+C:\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\Microsoft.Kinect.xml
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.csprojResolveAssemblyReference.cache
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MainWindow.g.cs
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\App.g.cs
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection_MarkupCompile.cache
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection_MarkupCompile.lref
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MainWindow.baml
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.g.resources
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.Properties.Resources.resources
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.csproj.GenerateResource.Cache
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.exe
+C:\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.pdb
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\MovementDetection.exe.config
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.exe
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.pdb
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\MovementDetection.exe
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\Microsoft.Kinect.dll
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\Microsoft.Kinect.xml
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.csprojResolveAssemblyReference.cache
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MainWindow.g.cs
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\App.g.cs
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection_MarkupCompile.cache
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection_MarkupCompile.lref
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MainWindow.baml
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.g.resources
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.Properties.Resources.resources
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\obj\Debug\MovementDetection.csproj.GenerateResource.Cache
+D:\cosas de david\respaldo\programacion\Kinect\MovementDetection\MovementDetection\bin\Debug\MovementDetection.pdb

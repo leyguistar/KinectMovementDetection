@@ -1,0 +1,34 @@
+﻿<Window x:Class="MovementDetection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MovementDetection"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="286" Margin="10,23,0,0" VerticalAlignment="Top" Width="326" Loaded="image_Loaded"/>
+        <Button x:Name="btActivar" Content="Activar" HorizontalAlignment="Left" Height="33" Margin="360,23,0,0" VerticalAlignment="Top" Width="90" Click="btActivar_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="25" Margin="360,76,0,0" TextWrapping="Wrap" Text="20000" VerticalAlignment="Top" Width="106" TextChanged="textBox_TextChanged"/>
+        <Label x:Name="label" Content="tolerancia" HorizontalAlignment="Left" Height="30" Margin="360,50,0,0" VerticalAlignment="Top" Width="61"/>
+        <Label x:Name="lbDesde" Content="Desde" HorizontalAlignment="Left" Height="25" Margin="364,113,0,0" VerticalAlignment="Top" Width="51"/>
+
+        <Label x:Name="lbHasta" Content="Hasta" HorizontalAlignment="Left" Height="25" Margin="415,113,0,0" VerticalAlignment="Top" Width="51"/>
+        <TextBox x:Name="tbDesde" HorizontalAlignment="Left" Height="25" Margin="364,138,0,0" TextWrapping="Wrap" Text="40" VerticalAlignment="Top" Width="46" TextChanged="tbDesde_TextChanged"/>
+        <TextBox x:Name="tbTiempo" HorizontalAlignment="Left" Height="25" Margin="360,231,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="36" TextChanged="tbTiempo_TextChanged" />
+        <TextBox x:Name="tbHasta" HorizontalAlignment="Left" Height="25" Margin="420,138,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="46" TextChanged="tbHasta_TextChanged"/>
+        <Label x:Name="lbTiempo" Content="0" HorizontalAlignment="Left" Height="28" Margin="360,261,0,0" VerticalAlignment="Top" Width="26"/>
+        <Label x:Name="lbtiempoE" Content="tiempo" HorizontalAlignment="Left" Height="25" Margin="362,205,0,0" VerticalAlignment="Top" Width="51" RenderTransformOrigin="0.5,0.5"/>
+
+
+
+        <Label x:Name="lbEstado"  Content="Desactivado" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="90" Background="White" RenderTransformOrigin="0.505,-0.143"/>
+        <CheckBox x:Name="cbTiempo" Content="Por tiempo" HorizontalAlignment="Left" Height="17" Margin="364,193,0,0" VerticalAlignment="Top" Width="77"/>
+        <Label x:Name="lbMovimiento" Content="No movimiento" HorizontalAlignment="Left" Margin="10,291,0,0" VerticalAlignment="Top" Height="24" Width="210" RenderTransformOrigin="0.49,0.468"/>
+        <CheckBox x:Name="cbSonido" Content="Sonido" HorizontalAlignment="Left" Margin="364,178,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbEntrada" HorizontalAlignment="Left" Height="23" Margin="362,294,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="tbEntrada_TextChanged"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="360,0,0,0" VerticalAlignment="Top" Width="120"/>
+
+
+    </Grid>
+</Window>
